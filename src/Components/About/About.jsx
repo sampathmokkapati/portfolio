@@ -21,11 +21,11 @@ const About = () => {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
+I'm Sampath, a front-end developer with a strong focus on 
+building visually appealing and responsive web interfaces. Skilled in HTML, CSS, and 
+JavaScript, I aim to create seamless, user-friendly experiences. I’m passionate about modern web design trends 
+and strive to bridge the gap
+ between design and functionality. Let's connect to bring intuitive, impactful web projects to life!
                 </p>
               </span>
             </div>
@@ -37,8 +37,10 @@ const About = () => {
                   Database developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores
+I'm Sampath, a database developer skilled in designing and optimizing efficient data storage solutions. 
+With experience in SQL and NoSQL databases, I focus on data integrity, security, and performance.
+ I enjoy structuring data to support smooth, scalable application functionality.
+ Let's work together to create reliable, high-performing data solutions!
                 </p>
               </span>
             </div>
@@ -50,9 +52,10 @@ const About = () => {
                   Backend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis
+I'm Sampath, a back-end developer focused on building
+ robust and scalable web applications. With a solid grasp of server-side programming, 
+ databases, and API integration, I ensure that applications run efficiently and reliably. Skilled in languages
+  like Node.js and Python, I’m passionate about optimizing performance, enhancing security, and managing data effectively. 
                 </p>
               </span>
             </div>
